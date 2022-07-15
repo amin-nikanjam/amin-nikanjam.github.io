@@ -81,41 +81,17 @@ analytics:
 # Site Author
 author:
   name             : "Amin Nikanjam"
-  avatar           : "WIN_2.png"
+  avatar           : "AminNikanjam.jpg"
   bio              : "Research Associate at Polytechnique Montréal"
   location         : "Montréal, Canada"
-  employer         :
-  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=mGF6p48AAAAJ&hl=en"
   email            : "amin.nikanjam@polymtl.ca;amin.nikanjam@gmail.com"
   researchgate     :  
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
   github           : "amin-nikanjam"
-  google_plus      :
-  keybase          :
   instagram        :
-  impactstory      : 
-  lastfm           :
   linkedin         : "amin-nikanjam-11387a162/"
   orcid            : 
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : 
-  steam            :
-  tumblr           :
-  twitter          : 
-  vine             :
-  weibo            :
-  xing             :
   youtube          :
-  wikipedia        :
-
 
 # Reading Files
 include:
