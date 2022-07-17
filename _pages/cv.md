@@ -35,7 +35,7 @@ Work experience
 
 * Feb 2013 - May 2020: Assistant Professor
   * K. N. Toosi University of Technology
-  * Research theme Search-Based Software Engineering, Estimation of Distribution Algorithms, Deep Learning in Multi-Agent Systems
+  * Research: Search-Based Software Engineering, Estimation of Distribution Algorithms, Deep Learning in Multi-Agent Systems
   * Teaching: Multi-agent Systems, Evolutionary Computation, Probabilistic Graphical Model, Computer Programming (Introductory and Advanced: C, C++, Python), Data Structures and Algorithms, Design and Analysis of Algorithms, Introduction to Artificial Intelligence, Formal Languages and Automata, Operating Systems
   
 Skills
