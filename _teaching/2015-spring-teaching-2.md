@@ -7,14 +7,14 @@ venue: "Polytechnique Montréal, Department of Computer Engineering and Software
 date: 2022-Fall
 location: "Montréal, Canada"
 ---
-#
-#This is a description of a teaching experience. You can use markdown like any other post.
-#
-#Heading 1
-#======
-#
-#Heading 2
-#======
-#
-#Heading 3
-#======
+
+This is a description of a teaching experience. You can use markdown like any other post.
+
+Heading 1
+======
+
+Heading 2
+======
+
+Heading 3
+======
