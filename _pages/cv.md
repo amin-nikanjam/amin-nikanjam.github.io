@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Engineering - Software, University of Isfahan, Iran
+* B.S. in Computer Engineering - Software, University of Isfahan, Iran, 
   * Project title: “Design and Implementation of ERP Using Oracle Framework”
   * Supervisor: Dr. Mohammad A. Nematbakhsh
 * M.S. in Computer Engineering - Artificial Intelligence, Iran University of Science and Technology, Iran, 2005
