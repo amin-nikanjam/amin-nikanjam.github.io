@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Engineering - Software, University of Isfahan, Iran, 
+* B.S. in Computer Engineering - Software, University of Isfahan, Iran, 2003
   * Project title: “Design and Implementation of ERP Using Oracle Framework”
   * Supervisor: Dr. Mohammad A. Nematbakhsh
 * M.S. in Computer Engineering - Artificial Intelligence, Iran University of Science and Technology, Iran, 2005
@@ -75,10 +75,17 @@ Teaching
 Professional Service
 ======
 * Reviewer
-  * Applied Soft Computing, IF: 4.87, Springer.
-  * Software Quality Journal, IF: 2.14, Springer.
-  * Journal of Experimental & Theoretical Artificial Intelligence, IF: 2.11, Taylor & Francis.
-  * Quality and Reliability Engineering International, IF: 1.41, Wiley.
-  * IEEE Software, IF: 2.59, IEEE.
-  * Natural Computing, IF: 1.49, Springer. 
-  * IEEE Transactions on Reliability, IF: 3.17, IEEE.
+  * ACM Transactions on Software Engineering and Methodology (TOSEM), IF: 3.685, ACM.
+  * International Journal of Empirical Software Engineering (EMSE). IF:3.762, Springer.
+  * Journal of Systems and Software, IF: 3.514, Elsevier.
+  * Concurrency and Computation: Practice and Experience, IF:1.831, Wiley.
+  * Journal of Software: Evolution and Process, IF: 1.864, Wiley.
+  * Software Quality Journal, IF: 2.132, Springer.
+  * Applied Soft Computing, IF: 8.263, Springer.
+  * Expert systems with Applications, IF: 8.665, Elsevier.
+  * Journal of Experimental & Theoretical Artificial Intelligence, IF: 2.296, Taylor & Francis.
+  * Quality and Reliability Engineering International, IF: 3.007, Wiley.
+  * IEEE Software, IF: 3.000, IEEE.
+  * Natural Computing, IF: 1.504, Springer.
+  * IEEE Transactions on Reliability, IF: 5.883, IEEE.
+
