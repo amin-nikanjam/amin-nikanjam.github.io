@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/2022-fall-teaching-1
 venue: "Polytechnique Montréal, Department of Computer Engineering and Software Engineering"
-date: Fall 2022
+date: 2022-09-01
 location: "Montréal, Canada"
 ---
 
