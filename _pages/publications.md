@@ -6,9 +6,9 @@ author_profile: true
 ---
 
 **Referred Journal Publications** 
-1.	Morovati, M.M., Nikanjam, A., Tambon, F., Khomh, F. and Jiang, Z, Bug Characterization in Machine Learning-based Systems, Accepted for publication by International Journal of Empirical Software Engineering [IF:3.762], Springer, 2023. [View](https://arxiv.org/abs/2307.14512)
+1.	Morovati, M.M., Nikanjam, A., Tambon, F., Khomh, F. and Jiang, Z, _Bug Characterization in Machine Learning-based Systems_, Accepted for publication by International Journal of Empirical Software Engineering [IF:3.762], Springer, 2023. [View](https://arxiv.org/abs/2307.14512)
 
-2.	Tambon, F., Nikanjam, A., An, L., Khomh, F., Antoniol, G., Silent Bugs in Deep Learning Frameworks: An Empirical Study of Keras and TensorFlow, Accepted for publication by International Journal of Empirical Software Engineering [IF:3.762], Springer, 2023. [View] 
+2.	Tambon, F., Nikanjam, A., An, L., Khomh, F., Antoniol, G., _Silent Bugs in Deep Learning Frameworks: An Empirical Study of Keras and TensorFlow_, Accepted for publication by International Journal of Empirical Software Engineering [IF:3.762], Springer, 2023. [View](https://arxiv.org/abs/2112.13314) 
 
 3.	Mindom, P.S.N., Nikanjam, A., and Khomh, F., A Comparison of Reinforcement Learning Frameworks for Software Testing Tasks, International Journal of Empirical Software Engineering [IF:3.762], 28, Article 111, Springer, 2023. [View]
 4.	Moradi Dakhel, A., Majdinasab, V., Nikanjam, A., Khomh, F., Desmarais, M. C., and Jiang, Z., GitHub Copilot AI pair programmer: Asset or Liability?, Journal of Systems and Software [IF:3.514], 203, 111734, 2023. [View]
