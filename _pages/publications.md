@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 **Referred Journal Publications** 
-1.	Morovati, M.M., Nikanjam, A., Tambon, F., Khomh, F. and Jiang, Z, Bug Characterization in Machine Learning-based Systems, Accepted for publication by International Journal of Empirical Software Engineering [IF:3.762], Springer, 2023. [View]
+1.	Morovati, M.M., Nikanjam, A., Tambon, F., Khomh, F. and Jiang, Z, Bug Characterization in Machine Learning-based Systems, Accepted for publication by International Journal of Empirical Software Engineering [IF:3.762], Springer, 2023. [View](https://arxiv.org/abs/2307.14512)
 
 2.	Tambon, F., Nikanjam, A., An, L., Khomh, F., Antoniol, G., Silent Bugs in Deep Learning Frameworks: An Empirical Study of Keras and TensorFlow, Accepted for publication by International Journal of Empirical Software Engineering [IF:3.762], Springer, 2023. [View] 
 
