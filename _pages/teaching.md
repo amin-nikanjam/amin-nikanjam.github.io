@@ -5,10 +5,14 @@ permalink: /teaching/
 author_profile: true
 ---
 
-Education
-======
+[Polytechnique Montréal] Fall 2023: Advanced Concepts of Cloud Computing
 
 **Teaching History**
+
+[Polytechnique Montréal] Fall 2022: Advanced Concepts of Cloud Computing
+
+[KNTU] Spring 2019: Evolutionary Computation, Design and Analysis of Algorithms
+
 [KNTU] Fall 2018: Multi-agent Systems, Fundamental of Computer Programming
 
 [KNTU] Spring 2018: Evolutionary Computation, Design and Analysis of Algorithms
