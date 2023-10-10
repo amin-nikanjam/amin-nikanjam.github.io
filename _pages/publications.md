@@ -51,3 +51,6 @@ author_profile: true
 19.	Nikanjam, A., Rahmani, A., _The Anticipatory Classifier System for Function Approximation_, 12th Annual International CSI Computer Conference (CSICC2007), 2388-2391, Tehran, Iran, 2007. [View](https://csi.org.ir/fa/paper/view/id/533)
 20.	Nikanjam, A., Rahmani, A., _An Anticipatory Approach to Improve XCSF_, Genetic and Evolutionary Computation COnference (GECCO2006), 1595-1596, Seattle, USA, ACM, 2006. [View](https://dl.acm.org/citation.cfm?id=1143997.1144258)
 21.	Dezfoulian, M., Kaviani, N., Nikanjam, A., Rafaee, M., _Training a Simulated Soccer Agent How to Shoot Using Artificial Neural Network_, 13th Multi-disciplinary Iranian Researchers Conference in Europe (IRCE), Leeds, UK, 2005. [View](https://scholar.google.com/scholar?oi=bibs&cluster=8419819600776928581&btnI=1&hl=en)
+
+**Book Chapters**
+1.	Jamshidi, S., Nikanjam, A., Hamdaqa, M.A., Khomh, F., _Attack Detection by Using Deep Learning for Cyber-Physical System_, In: Traore, I., Woungang, I., Saad, S. (eds) Artificial Intelligence for Cyber-Physical Systems Hardening. Engineering Cyber-Physical Systems and Critical Infrastructures, vol 2. Springer, 2023. [View](https://doi.org/10.1007/978-3-031-16237-4_7)
