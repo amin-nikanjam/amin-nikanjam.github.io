@@ -54,24 +54,6 @@ Skills
   * Used Natural Language Toolkit (NLTK) for sentiment analysis
   * Modeling with Graph Transformation System: Groove
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Professional Service
 ======
 * Reviewer
@@ -88,4 +70,3 @@ Professional Service
   * IEEE Software, IF: 3.000, IEEE.
   * Natural Computing, IF: 1.504, Springer.
   * IEEE Transactions on Reliability, IF: 5.883, IEEE.
-
