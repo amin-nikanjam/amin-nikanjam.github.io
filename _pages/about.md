@@ -14,4 +14,4 @@ Before joining [Polytechnique Montréal](https://www.polymtl.ca/), I was an invi
 
 Research interests
 ------
-SE4ML (Software Engineering for Machine Learning), Machine Learning Systems Engineering, Software Testing, Reinforcement Learning, Multi-Agent Systems
+SE4ML (Software Engineering for Machine Learning), Machine Learning Systems Engineering, Large Language Models for SE, Software Testing, Reinforcement Learning, Multi-Agent Systems
