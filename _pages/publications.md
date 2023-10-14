@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-**Referred Journal Publications** 
+**Refereed Journal Publications** 
 1.	Morovati, M.M., Nikanjam, A., Tambon, F., Khomh, F. and Jiang, Z, _Bug Characterization in Machine Learning-based Systems_, Accepted for publication by International Journal of Empirical Software Engineering [IF:3.762], Springer, 2023. [View](https://arxiv.org/abs/2307.14512)
 2.	Tambon, F., Nikanjam, A., An, L., Khomh, F., Antoniol, G., _Silent Bugs in Deep Learning Frameworks: An Empirical Study of Keras and TensorFlow_, Accepted for publication by International Journal of Empirical Software Engineering [IF:3.762], Springer, 2023. [View](https://arxiv.org/abs/2112.13314) 
 3.	Mindom, P.S.N., Nikanjam, A., and Khomh, F., _A Comparison of Reinforcement Learning Frameworks for Software Testing Tasks_, International Journal of Empirical Software Engineering [IF:3.762], 28, Article 111, Springer, 2023. [View](https://link.springer.com/article/10.1007/s10664-023-10363-2)
