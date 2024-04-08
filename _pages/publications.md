@@ -8,9 +8,9 @@ author_profile: true
 **LLM-based Code Generation** 
 1. Tambon, F., Moradi Dakhel, A., **Nikanjam, A.**, Khomh, F., Desmarais, M. C., and Antoniol, G., _Bugs in Large Language Models Generated Code:
 An Empirical Study_, 2024. [View](https://arxiv.org/abs/2403.08937)
-3. Majdinasab, V., **Nikanjam, A.**, and Khomh, F., _Trained Without My Consent: Detecting Code Inclusion In Language Models Trained on Code_, 2024. [View](https://arxiv.org/abs/2402.09299)
-4. Moradi Dakhel, A., **Nikanjam, A.**, Majdinasab, V., Khomh, F., and Desmarais, M. C., _Effective Test Generation Using Pre-trained Large Language Models and Mutation Testing_, 2023. [View](https://arxiv.org/abs/2308.16557)
-5. Moradi Dakhel, A., Majdinasab, V., **Nikanjam, A.**, Khomh, F., Desmarais, M. C., and Jiang, Z., _GitHub Copilot AI pair programmer: Asset or Liability?_, Journal of Systems and Software [IF:3.514], 203, 111734, 2023. [View](https://www.sciencedirect.com/science/article/abs/pii/S0164121223001292)
+2. Majdinasab, V., **Nikanjam, A.**, and Khomh, F., _Trained Without My Consent: Detecting Code Inclusion In Language Models Trained on Code_, 2024. [View](https://arxiv.org/abs/2402.09299)
+3. Moradi Dakhel, A., **Nikanjam, A.**, Majdinasab, V., Khomh, F., and Desmarais, M. C., _Effective Test Generation Using Pre-trained Large Language Models and Mutation Testing_, Information and Software Technology [IF:3.862], 107468, Elsevier, 2024. [View](https://www.sciencedirect.com/science/article/pii/S0950584924000739)
+4. Moradi Dakhel, A., Majdinasab, V., **Nikanjam, A.**, Khomh, F., Desmarais, M. C., and Jiang, Z., _GitHub Copilot AI pair programmer: Asset or Liability?_, Journal of Systems and Software [IF:3.514], 203, 111734, Elsevier, 2023. [View](https://www.sciencedirect.com/science/article/abs/pii/S0164121223001292)
 
 **Bugs and design smells in ML**
 1.	Tambon, F., **Nikanjam, A.**, An, L., Khomh, F., and Antoniol, G., _Silent Bugs in Deep Learning Frameworks: An Empirical Study of Keras and TensorFlow_, International Journal of Empirical Software Engineering [IF:3.762], 29, Article 10, Springer, 2024. [View](https://link.springer.com/article/10.1007/s10664-023-10389-6)
