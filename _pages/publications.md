@@ -6,12 +6,12 @@ author_profile: true
 ---
 
 **LLM-based Code Generation** 
-1. Moradi Dakhel, A., **Nikanjam, A.**, Khomh, F., Desmarais, M.C., Washizaki, H., _An Overview on Large Language Models_. In: Nguyen-Duc, A., Abrahamsson, P., Khomh, F. (eds) Generative AI for Effective Software Development. Springer, 2024. [View](https://link.springer.com/chapter/10.1007/978-3-031-55642-5_1)
-2. Moradi Dakhel, A., **Nikanjam, A.**, Khomh, F., Desmarais, M.C., Washizaki, H., _Generative AI for Software Development: A Family of Studies on Code Generation_. In: Nguyen-Duc, A., Abrahamsson, P., Khomh, F. (eds) Generative AI for Effective Software Development. Springer, 2024. [View](https://link.springer.com/chapter/10.1007/978-3-031-55642-5_7)
-3. Tambon, F., Moradi Dakhel, A., **Nikanjam, A.**, Khomh, F., Desmarais, M. C., and Antoniol, G., _Bugs in Large Language Models Generated Code:
+1. Tambon, F., Moradi Dakhel, A., **Nikanjam, A.**, Khomh, F., Desmarais, M. C., and Antoniol, G., _Bugs in Large Language Models Generated Code:
 An Empirical Study_, 2024. [View](https://arxiv.org/abs/2403.08937)
-4. Majdinasab, V., **Nikanjam, A.**, and Khomh, F., _Trained Without My Consent: Detecting Code Inclusion In Language Models Trained on Code_, 2024. [View](https://arxiv.org/abs/2402.09299)
-5. Moradi Dakhel, A., **Nikanjam, A.**, Majdinasab, V., Khomh, F., and Desmarais, M. C., _Effective Test Generation Using Pre-trained Large Language Models and Mutation Testing_, Information and Software Technology [IF:3.862], 107468, Elsevier, 2024. [View](https://www.sciencedirect.com/science/article/pii/S0950584924000739)
+2. Majdinasab, V., **Nikanjam, A.**, and Khomh, F., _Trained Without My Consent: Detecting Code Inclusion In Language Models Trained on Code_, 2024. [View](https://arxiv.org/abs/2402.09299)
+3. Moradi Dakhel, A., **Nikanjam, A.**, Majdinasab, V., Khomh, F., and Desmarais, M. C., _Effective Test Generation Using Pre-trained Large Language Models and Mutation Testing_, Information and Software Technology [IF:3.862], 107468, Elsevier, 2024. [View](https://www.sciencedirect.com/science/article/pii/S0950584924000739)
+4. Moradi Dakhel, A., **Nikanjam, A.**, Khomh, F., Desmarais, M.C., Washizaki, H., _An Overview on Large Language Models_. In: Nguyen-Duc, A., Abrahamsson, P., Khomh, F. (eds) Generative AI for Effective Software Development. Springer, 2024. [View](https://link.springer.com/chapter/10.1007/978-3-031-55642-5_1)
+5. Moradi Dakhel, A., **Nikanjam, A.**, Khomh, F., Desmarais, M.C., Washizaki, H., _Generative AI for Software Development: A Family of Studies on Code Generation_. In: Nguyen-Duc, A., Abrahamsson, P., Khomh, F. (eds) Generative AI for Effective Software Development. Springer, 2024. [View](https://link.springer.com/chapter/10.1007/978-3-031-55642-5_7)
 6. Moradi Dakhel, A., Majdinasab, V., **Nikanjam, A.**, Khomh, F., Desmarais, M. C., and Jiang, Z., _GitHub Copilot AI pair programmer: Asset or Liability?_, Journal of Systems and Software [IF:3.514], 203, 111734, Elsevier, 2023. [View](https://www.sciencedirect.com/science/article/abs/pii/S0164121223001292)
 
 **Bugs and design smells in ML**
