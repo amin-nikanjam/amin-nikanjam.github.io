@@ -17,7 +17,7 @@ An Empirical Study_, 2024. [View](https://arxiv.org/abs/2403.08937)
 8. Moradi Dakhel, A., Majdinasab, V., **Nikanjam, A.**, Khomh, F., Desmarais, M. C., and Jiang, Z., _GitHub Copilot AI pair programmer: Asset or Liability?_, Journal of Systems and Software [IF:3.514], 203, 111734, Elsevier, 2023. [View](https://www.sciencedirect.com/science/article/abs/pii/S0164121223001292)
 
 **Bugs and design smells in ML**
-1. Vidgen, B., Agrawal, A., Ahmed, A.M., ...,  **Nikanjam, A.**, ..., Vanschoren, J., Introducing v0.5 of the AI Safety Benchmark from MLCommons, 2024. [View](https://arxiv.org/abs/2404.12241)
+1. Vidgen, B., Agrawal, A., Ahmed, A.M., ...,  **Nikanjam, A.**, ..., and Vanschoren, J., _Introducing v0.5 of the AI Safety Benchmark from MLCommons_, 2024. [View](https://arxiv.org/abs/2404.12241)
 2. Bouchoucha, R., Yahmed, A.H., Patil, D., Rajendran, J., **Nikanjam, A.**, Chandar, S. and Khomh, F., _Toward Debugging Deep Reinforcement Learning Programs with RLExplorer_, Accepted by IEEE International Conference on Software Maintenance and Evolution (ICSME), IEEE, 2024.
 3. Morovati, M.M., Tambon, F., Taraghi, M., **Nikanjam, A.**, Khomh, F., _Common Challenges of Deep Reinforcement Learning Applications Development: An Empirical Study, International Journal of Empirical Software Engineering_ [IF:4.1], 29, Article 95, Springer, 2024. [View](https://link.springer.com/article/10.1007/s10664-024-10500-5)
 4.	Tambon, F., **Nikanjam, A.**, An, L., Khomh, F., and Antoniol, G., _Silent Bugs in Deep Learning Frameworks: An Empirical Study of Keras and TensorFlow_, International Journal of Empirical Software Engineering [IF:4.1], 29, Article 10, Springer, 2024. [View](https://link.springer.com/article/10.1007/s10664-023-10389-6)
