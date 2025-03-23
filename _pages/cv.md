@@ -23,7 +23,10 @@ Education
 
 Work experience
 ======
-* Jun 2020 – Present: Research Associate
+*Feb 2025 – Present: Staff Researcher
+  * Huawei Canada
+    
+* Jun 2020 – Feb 2025: Research Associate
   * Polytechnique Montréal
   * Research theme: Dependability, certifiability, and explainability of software systems developed using Artificial Intelligence
   * Supervisor: [Professor Foutse Khomh](http://khomh.net/)
