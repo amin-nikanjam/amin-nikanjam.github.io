@@ -23,7 +23,7 @@ Education
 
 Work experience
 ======
-*Feb 2025 – Present: Staff Researcher
+* Feb 2025 – Present: Staff Researcher
   * Huawei Canada
     
 * Jun 2020 – Feb 2025: Research Associate
