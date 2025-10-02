@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 **Teaching History**
+
 [Polytechnique Montréal] Fall 2024: Advanced Concepts of Cloud Computing
 
 [Polytechnique Montréal] Fall 2023: Advanced Concepts of Cloud Computing
