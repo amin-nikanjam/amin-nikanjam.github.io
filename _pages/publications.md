@@ -7,7 +7,7 @@ author_profile: true
 
 **LLM-based Code Generation** 
 1. Majdinasab, V., **Nikanjam, A.**, and Khomh, F., _Prism: Dynamic and Flexible Benchmarking of LLMs Code Generation with Monte Carlo Tree Search_, 2025. [View](https://arxiv.org/abs/2504.05500)
-2. Tambon, F., **Nikanjam, A.**, Zid, C., Khomh, F., and Antoniol, G., _Assessing Programming Task Difficulty for Efficient Evaluation of Large Language Models_, Accepted by ACM Transactions on Software Engineering and Methodology (TOSEM), 2025. [View](https://arxiv.org/abs/2407.21227)
+2. Tambon, F., **Nikanjam, A.**, Zid, C., Khomh, F., and Antoniol, G., _TaskEval: Assessing Difficulty of Code Generation Tasks for Large Language Models_, Accepted by ACM Transactions on Software Engineering and Methodology (TOSEM), 2025. [View](https://dl.acm.org/doi/10.1145/3773285)
 3. Abbassi, A.A, Da Silva, L., **Nikanjam, A.**, and Khomh, F., _ReCatcher: Towards LLMs Regression Testing for Code Generation_, 2025. [View](https://arxiv.org/abs/2507.19390)
 4. Abbassi, A.A, Da Silva, L., **Nikanjam, A.**, and Khomh, F., _A Taxonomy of Inefficiencies in LLM-Generated Python Code_, Accepted by IEEE International Conference on Software Maintenance and Evolution (ICSME), 2025. [View](https://arxiv.org/abs/2503.06327)
 5. Majdinasab, V., **Nikanjam, A.**, and Khomh, F., _DeepCodeProbe: Towards Understanding What Models Trained on Code Learn_, Empirical Software Engineering, 30, Article 169, 2025. [View](https://link.springer.com/article/10.1007/s10664-025-10731-0)
