@@ -20,7 +20,7 @@ author_profile: true
 12. Moradi Dakhel, A., Majdinasab, V., **Nikanjam, A.**, Khomh, F., Desmarais, M. C., and Jiang, Z., _GitHub Copilot AI pair programmer: Asset or Liability?_, Journal of Systems and Software, 203, 111734, Elsevier, 2023. [View](https://www.sciencedirect.com/science/article/abs/pii/S0164121223001292)
 
 **SE (Bugs and design smells) for ML**
-1. Majidi, F., Khomh, F., Li, H., **Nikanjam, A.**, _An Efficient Model Maintenance Approach for MLOps_, Accepted by Empirical Software Engineering, 2025. [View](https://arxiv.org/abs/2412.04657)
+1. Majidi, F., Khomh, F., Li, H., **Nikanjam, A.**, _An Efficient Model Maintenance Approach for MLOps_, Empirical Software Engineering, 31, Article 21, 2026. [View](https://link.springer.com/article/10.1007/s10664-025-10744-9)
 2. Morovati, M.M., **Nikanjam, A.**, and Khomh, F., _Fault Localization in Deep Learning-based Software: A System-level Approach_, 2024. [View](https://arxiv.org/abs/2411.08172).
 3. Côté, P.O., **Nikanjam, A.**, Bouchoucha, R., Basta, I, Abidi, M., and Khomh, F., _Quality issues in Machine Learning Software Systems_, Empirical Software Engineering, 29, Article 149, 2024. [View](https://link.springer.com/article/10.1007/s10664-024-10536-7)
 4. Vidgen, B., Agrawal, A., Ahmed, A.M., ...,  **Nikanjam, A.**, ..., and Vanschoren, J., _Introducing v0.5 of the AI Safety Benchmark from MLCommons_, 2024. [View](https://arxiv.org/abs/2404.12241)
